@@ -10,6 +10,7 @@ public class HelloGit {
     }
     public static void test(){
         int i=0;
+        i++;
         System.out.println(++i);
     }
 }
